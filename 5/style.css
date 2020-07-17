@@ -1,0 +1,72 @@
+.calculator
+{
+width: 493px;
+height: 200%;
+background-color:gray;
+border: 2px solid gray;
+margin: 0 auto;
+margin-top: 105px;
+}
+
+
+.buttonClear
+{
+width: 100%;
+height: 55px;
+margin-top: 5px;
+background-color:yellow;
+
+}
+.result
+{
+
+width: 98%;
+height: 65px;
+background-color:greenyellow;
+color:black ;
+
+}
+.button
+{
+width: 120px;
+height: 45px;
+margin: auto;
+margin-top:2px;
+}
+.Button
+{
+
+width: 243px;
+height: 45px;
+margin: auto;
+margin-top: 2px;
+
+
+}
+
+
+.button0
+{
+width: 243px;
+height: 45px;
+margin: auto;
+margin-top:2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
